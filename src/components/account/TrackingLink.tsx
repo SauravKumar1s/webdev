@@ -28,7 +28,7 @@ const TrackingLink = () => {
                 type="text"
                 placeholder="URL://s"
                 className="h-12 border mt-1 rounded px-4 w-full bg-gray-50"
-                value=""
+            
               />
             </div>
             <div className="md:col-span-5 mb-6">
@@ -38,7 +38,7 @@ const TrackingLink = () => {
                 type="text"
                 placeholder="Add title for your link "
                 className="h-12 border mt-1 rounded px-4 w-full bg-gray-50"
-                value=""
+               
               />
             </div>
             <div className="md:col-span-5 mb-6">
@@ -48,7 +48,7 @@ const TrackingLink = () => {
                 type="text"
                 placeholder="Add your tag "
                 className="h-12 border mt-1 rounded px-4 w-full bg-gray-50"
-                value=""
+           
               />
             </div>
 
@@ -59,7 +59,6 @@ const TrackingLink = () => {
                 name="date"
                 id="date"
                 className="h-12 border mt-1 rounded px-4 w-full bg-gray-50"
-                value=""
               />
             </div>
           </div>
